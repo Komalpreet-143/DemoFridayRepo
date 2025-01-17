@@ -17,7 +17,8 @@ public class Demo {
         // TODO code application logic here
         System.out.println("Hello World");
         // adding a comment
-        // making another change you fools
+        // making another change
+        // My friends are just mine 
     }
     
 }
