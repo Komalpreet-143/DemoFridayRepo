@@ -14,12 +14,15 @@ public class Demo {
      * @param args the command line arguments
      */
     // showing pull
+    // show fetch 
+    // showing merge
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello World");
         // adding a comment
         // making another change
-        // My friends are just mine 
+        // My friends are just mine
+        // fetching and merging
     }
     
 }
